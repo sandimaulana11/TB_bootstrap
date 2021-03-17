@@ -71,7 +71,7 @@
                         <a class="nav-link" href="#home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#gallery">Gallery</a>
+                        <a class="nav-link" href="#gallery">Galeri</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#Bahan-Bahan">Bahan-Bahan</a>
@@ -81,6 +81,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#etimologi">Etimologi</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#howtomake">Cara Membuat</a>
                     </li>
                 </ul>                
             </div>
@@ -128,7 +131,7 @@
 
              <section id="gallery" style="height: 100vh">
                 <div class="col-md-12 mx-auto text-center">
-                            <h1 style="color: white">Gallery</h1>
+                            <h1 style="color: white">Galeri</h1>
                         </div>
                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                 <div class="carousel-inner">
@@ -251,6 +254,31 @@
                                      <h1>Etimologi Burger</h1>
                                     <h5>Banyak orang keliru dan mengira bahwa nama Hamburger berasal dari kata "Ham", namun sebenarnya namanya berasal dari kota Hamburg di Jerman, tempat makanan ini berasal. Dari kota kedua terbesar di Jerman ini banyak penduduknya yang beremigrasi ke Amerika dan menyebarkan pembuatan burger ke sana. Hanyalah sebuah kebetulan bahwa kata "ham" yang dalam bahasa Inggris berarti daging asap memiliki bunyi yang hampir serupa dengan Hamburger, faktanya hamburger tidak mengandung Ham (meskipun ada juga restoran yang menambahkan irisan Ham pada burger mereka untuk menambah cita rasa).</h5>
                                     <h5>Jadi secara harafiah dapat disimpulkan bahwa arti kata Hamburger berarti "makanan yang berasal dari Hamburg" dan bukan berarti "makanan yang mengandung Ham". Namun pada praktiknya burger atau hamburger lebih sering diartikan sebagai sandwich atau jenis roti isi lainnya yang berbentuk bulat. Dalam masyarakat kata burger sudah lebih melekat sebagai jenis makanannya daripada asal muasal dan pencipta dari burger.</h5>
+                                </div>
+                                </div>                       
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            < <section id="howtomake" style="background-image: url('img/htm.jpg'); height: 100vh; background-size: cover; background-attachment: fixed;"> -->
+
+                        <div calss="container">
+                            <div class="row">
+                                <div class="col-md-9 mx-auto text-center">
+                                    <div style="text-align: center; color: white;">
+                                     <h1>Cara Membuat Burger</h1>
+                                     <h5>1. Panaskan panci dengan api kecil dan jika sudah panas, masukkan sedikit margarin</h5>
+                                     <h5>2. Goreng daging burger sampai matang</h5>
+                                    <h5>3. Panggang roti burger setelah daging sudah matang hanya untuk meghangatkan roti burger</h5>
+                                    <h5>4. Letakkan daging burger yang sudah matang tadi diatas burger</h5>
+                                    <h5>5. kasih saos sambal, saos tomat dan mayonaise secukupnya</h5>
+                                   <h5>6. Tambahkan sayuran dan bawang bombay yang sudah diiris</h5>
+                                   <h5>7. Tambahkan keju jika suka</h5>
+                                   <h5>Lalu burger siap untuk di santap</h5>
                                 </div>
                                 </div>                       
                             </div>
